@@ -1,5 +1,5 @@
 <pre>
-  #include <stdio.h>
+#include <stdio.h>
 
 // Artık yıl olup olmadığını kontrol eder
 int artik_yil_mi(int yil)
